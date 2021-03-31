@@ -1,3 +1,5 @@
+Homework submitted within original deadline (3/31/21)
+
 Javascript functionalities:
 1. Item image updates when the glazing type is selected from dropdown menu
 2. Item price updates when the quantity is selected from dropdown menu
